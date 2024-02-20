@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/APIJCA/APIJCA.iml" filepath="$PROJECT_DIR$/APIJCA/APIJCA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SignatureManuelle/SignatureManuelle.iml" filepath="$PROJECT_DIR$/SignatureManuelle/SignatureManuelle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Signatures.iml" filepath="$PROJECT_DIR$/Signatures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StockageHachage/StockageHachage.iml" filepath="$PROJECT_DIR$/StockageHachage/StockageHachage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/X509/X509.iml" filepath="$PROJECT_DIR$/X509/X509.iml" />
+    </modules>
+  </component>
+</project>
